@@ -1,0 +1,2 @@
+design,part,luts_core,luts_total,ff_total,dsp,t_cp_ns,logic_ns,route_ns,fmax_MHz,T_clk_ns,core_dyn_W,total_W,static_W,E_pJ,PDP_pJ,EDP_pJns,ADP_LUTns,confidence
+wallace-hoc,xc7a35tcpg236-1,427,431,64,0,6.937,2.269,4.668,143.90,6.9495,0.072,0.195,0.070,500.36,499.46,3464.78,2962.10,High

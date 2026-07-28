@@ -1,0 +1,27 @@
+# Vivado / Xilinx Build & Temporary Artifacts
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+*.jou
+*.log
+*.str
+*.pb
+*.dcp
+*.rpt
+.Xil/
+xsim.dir/
+
+# Python Cache & Compiled Files
+__pycache__/
+*.pyc
+*.pyo
+
+# System & OS Files
+.DS_Store
+Thumbs.db
+*.swp
+*.tmp
+*.zip
+*.tar.gz
