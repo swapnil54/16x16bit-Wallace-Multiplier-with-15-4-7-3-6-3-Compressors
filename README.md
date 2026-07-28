@@ -1,4 +1,4 @@
-# 16×16 Wallace Multiplier with 15:4 Counters, 7:3 & 6:3 Compressors
+# 16x16bit Wallace Multiplier with 15:4, 7:3 & 6:3 Compressors
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Language: Verilog](https://img.shields.io/badge/Language-Verilog-blue.svg)](rtl/)
